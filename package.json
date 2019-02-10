@@ -1,0 +1,19 @@
+{
+  "name": "algorithm-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "acmicpc-5567": "node_modules/.bin/ts-node acmicpc-5567/index.ts"
+  },
+  "keywords": [],
+  "author": "a@hax0r.info",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.24",
+    "rxjs": "^6.4.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}
